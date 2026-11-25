@@ -129,7 +129,6 @@ def cores_valor():
 
 
 def valor_cores():
-    def valor_cores():
     valor_str = entry_resis.get().replace(",", ".")
     tolerancia = toler_combo.get()
 
